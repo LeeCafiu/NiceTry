@@ -1979,6 +1979,7 @@
       "minecraft:ghast": "2025-01-12 19:40:30 +0000",
       "minecraft:enderman": "2025-01-12 02:53:23 +0000",
       "minecraft:stray": "2025-01-12 19:15:25 +0000",
+      "minecraft:silverfish": "2025-01-16 01:28:00 +0000",
       "minecraft:spider": "2025-01-10 18:02:50 +0000",
       "minecraft:zombie": "2025-01-10 02:04:05 +0000",
       "minecraft:creeper": "2025-01-10 19:07:29 +0000",
@@ -15974,15 +15975,21 @@
     },
     "done": true
   },
-  "betterarcheology:used_bomb_item": {
-    "criteria": {
-      "criteria": "2025-01-15 02:45:19 +0000"
-    },
-    "done": true
-  },
   "moredelight:main/get_egg_with_bacon_sandwich": {
     "criteria": {
       "egg_with_bacon_sandwich": "2025-01-15 02:36:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-01-15 02:36:59 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:used_bomb_item": {
+    "criteria": {
+      "criteria": "2025-01-15 02:45:19 +0000"
     },
     "done": true
   },
@@ -16004,15 +16011,243 @@
     },
     "done": true
   },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_helmet": "2025-01-15 02:36:59 +0000"
-    },
-    "done": true
-  },
   "betterarcheology:recipes/building_blocks/cracked_mud_brick_slab_from_cracked_mud_bricks_stonecutting": {
     "criteria": {
       "has_cracked_mud_bricks": "2025-01-15 02:46:44 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/light_wood_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-01-16 01:23:02 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_oak_chair_classic": {
+    "criteria": {
+      "has_planks": "2025-01-16 01:23:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-01-16 01:23:02 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/cooked_calamari": {
+    "criteria": {
+      "has_calamari": "2025-01-16 01:51:30 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_oak_coffee_table_modern": {
+    "criteria": {
+      "has_planks": "2025-01-16 01:23:02 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_oak_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-01-16 01:23:02 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_oak_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-01-16 01:23:02 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_oak_classic_nightstand": {
+    "criteria": {
+      "has_planks": "2025-01-16 01:23:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-01-16 01:51:30 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_oak_chair_modern": {
+    "criteria": {
+      "has_planks": "2025-01-16 01:23:02 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/cooked_calamari_from_smoking": {
+    "criteria": {
+      "has_calamari": "2025-01-16 01:51:30 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_oak_coffee_table_classic": {
+    "criteria": {
+      "has_planks": "2025-01-16 01:23:02 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_oak_table_dinner": {
+    "criteria": {
+      "has_planks": "2025-01-16 01:23:02 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_oak_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-01-16 01:23:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-16 01:23:02 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_oak_table_basic": {
+    "criteria": {
+      "has_planks": "2025-01-16 01:23:02 +0000"
+    },
+    "done": true
+  },
+  "ends_delight:root": {
+    "criteria": {
+      "the_end": "2025-01-16 01:33:37 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/light_wood_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-16 01:23:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-01-16 01:33:37 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_oak_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-16 01:23:02 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/light_wood_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-16 01:23:02 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_oak_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-16 01:23:02 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_oak_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-01-16 01:23:02 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_oak_table_log": {
+    "criteria": {
+      "has_log": "2025-01-16 01:23:02 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_oak_table_modern_dinner": {
+    "criteria": {
+      "has_planks": "2025-01-16 01:23:02 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_oak_chair": {
+    "criteria": {
+      "has_planks": "2025-01-16 01:23:02 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_oak_raw_table_log": {
+    "criteria": {
+      "has_log": "2025-01-16 01:23:02 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/light_wood_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-16 01:23:02 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_oak_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-01-16 01:23:02 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_oak_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-01-16 01:23:02 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_oak_coffee_table_basic": {
+    "criteria": {
+      "has_planks": "2025-01-16 01:23:02 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/cooked_calamari_from_campfire_cooking": {
+    "criteria": {
+      "has_calamari": "2025-01-16 01:51:30 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_oak_chair_dinner": {
+    "criteria": {
+      "has_planks": "2025-01-16 01:23:02 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_oak_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-01-16 01:23:02 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_oak_table_classic": {
+    "criteria": {
+      "has_planks": "2025-01-16 01:23:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-01-16 01:33:37 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_oak_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-01-16 01:23:02 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_oak_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-01-16 01:23:02 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_oak_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-01-16 01:23:02 +0000"
     },
     "done": true
   },
